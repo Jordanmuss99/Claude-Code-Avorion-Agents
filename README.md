@@ -1,6 +1,6 @@
 # Claude Code Avorion Agents
 
-**Transform chaotic Avorion modding into structured, professional development workflows.**
+**Transform chaotic Avorion modding with claude into structured, professional development workflows.**
 
 A sophisticated 8-agent system built for Claude Code that provides specialized expertise across every aspect of Avorion mod development - from API research and architecture decisions to UI design and implementation.
 
@@ -145,13 +145,6 @@ Result: Complete UI mod with proper config management
 Result: Robust cross-sector system with proper architecture
 ```
 
-## ⚡ **Performance Benefits**
-
-- **75% reduction** in agent initialization overhead vs traditional approaches
-- **Context compression** saves thousands of tokens in complex workflows
-- **Targeted routing** prevents unnecessary agent invocations
-- **Brief-based implementation** eliminates re-research cycles
-
 ## 🎯 **Specialized Knowledge Domains**
 
 ### **AzmithLib Integration**
@@ -274,5 +267,3 @@ MIT License - Feel free to adapt this agent system for other game modding commun
 - [AzmithLib Library](https://github.com/rinart73/AzimuthLib) (if publicly available)
 
 ---
-
-**Transform your Avorion modding from chaotic experimentation into professional development workflows. Start building better mods today.**
