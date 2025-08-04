@@ -264,6 +264,6 @@ MIT License - Feel free to adapt this agent system for other game modding commun
 
 - [Claude Code Documentation](https://docs.anthropic.com/en/docs/claude-code)
 - [Avorion Modding API](https://avorion.gamepedia.com/Modding)
-- [AzmithLib Library](https://github.com/rinart73/AzimuthLib) (if publicly available)
+- [AzmithLib Library](https://github.com/rinart73/AzimuthLib)
 
 ---
