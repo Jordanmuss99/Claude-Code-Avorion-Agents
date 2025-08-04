@@ -1,7 +1,7 @@
 ---
 name: agent-router
 description: MUST BE USED when you need to determine which specialist agent should handle a user's request based on clear, non-overlapping criteria. This agent prevents conflicts, circular dependencies, and ensures optimal agent selection through a structured decision tree.
-tools: Glob, Grep, LS, Read, NotebookRead, WebFetch, TodoWrite, WebSearch
+tools:
 model: sonnet
 ---
 
