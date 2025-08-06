@@ -80,12 +80,12 @@ Edit these agent files to point to your chosen documentation location:
 **For `avorion-api-analyzer.md`:**
    - Find the `Documentation Sources (priority order):` section
    - Update file paths to match your documentation location
-   - Example: Change `C:\Avorion\Avorion-Documentation\*.html` to `\your\chosen\pathAvorion-Documentation\*.html`
+   - Example: Change `C:\Avorion\Avorion-Documentation\*.html` to `\your-chosen-path\Avorion-Documentation\*.html`
 
 **For `azmithlib-specialist.md`:**
    - Find the `Documentation Sources (priority order):` section  
    - Update file paths to match your documentation location
-   - Example: Change `C:\Avorion\Avorion-Documentation\*.html` to `\your\chosen\path\azmithlib\*.html`  
+   - Example: Change `C:\Avorion\Avorion-Documentation\*.html` to `\your-chosen-path\azmithlib\*.html`  
 
 **Important:** Agent file reading tools require absolute or relative paths that are accessible from your Claude Code working directory. Test agent access by running a simple query after configuration.
 
